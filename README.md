@@ -111,7 +111,7 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 
 ---
 
-## 🤝 How to Contribute
+## 🤝 How to Contribute to the Repository
 The **Whitebox AI Syllabus** is a living curriculum. While the core sequence is curated to maintain academic rigor, I welcome contributions from the community, especially from fellow researchers, educators, and practitioners.
 
 ### How you can help:
