@@ -62,7 +62,7 @@ Mastering every video in this repository would be an Herculean task and likely o
 | [**Statistical Learning (StatQuest)**](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) | A gentle and visual introduction to most of the core topics in classical statistical learning. |
 | [**Machine Learning I (GaTech)**](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo) | A friendly playlist focused on supervised learning. |
 | [**Machine Learning II (Ng, Stanford)**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) | Suitable for advanced undergraduates or junior graduate students in ML. |
-| [**Learning from Data (Mostafa, Caltech)**](https://www.youtube.com/playlist?list=PLnIDYuXHkit4LcWjDe0EwlE57WiGlBs08) | An introduction to Learning Theory. |
+| [**Learning from Data (Mostafa, Caltech)**](https://www.youtube.com/playlist?list=PLnIDYuXHkit4LcWjDe0EwlE57WiGlBs08) | A rigorous introduction to Learning Theory. |
 
 
 ---
