@@ -67,9 +67,9 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 ### 🎲 Probability and Statistics
 | Resource | Why it's here |
 | :--- | :--- |
-| [**Probability Bootcamp (Brunton, UW)**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V) | Good and varied selection of introductory-to-intermediate topics. |
+| [**Probability Bootcamp (Brunton, UW)**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V) | Good and varied selection of introductory-to-intermediate Probability topics. |
 | [**Fundamentals (StatQuest)**](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) | Intuitive visuals and coverage of most fundamental topics. |
-| [**Statistics (Organic Chem Tutor)**](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV) | Good and varied selection of intro to intermediate topics. |
+| [**Statistics (Organic Chem Tutor)**](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV) | Good and varied selection of introductory-to-intermediate Statistics topics. |
 | [**Econometrics 1 (Ben Lambert)**](https://www.youtube.com/playlist?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU) | A fantastic Khan-Academy-style introduction to Econometrics and Time Series. |
 | [**Econometrics 2 (Ben Lambert)**](https://www.youtube.com/playlist?list=PLwJRxp3blEvb7P-7po9AxuBwquPv75LjU) | Part 2. |
 
