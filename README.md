@@ -19,7 +19,9 @@
 ## 💡 Level 0: The Vision
 ### The End of the Black-Box Era
 For decades, large sectors of academia and industry have been lulled into a false sense of security by high-performance ensemble models that prioritize predictive power over human comprehension. In the era of the EU AI Act and the rise of high-stakes, AI-informed decision-making, a model you cannot explain is no longer an asset no matter how accurate -- it is a liability.
+
 This syllabus is the "White-Box" antidote, which shows that a safer, more human-centric AI future is possible. It is the exact self-learning stack I recommend to my most ambitious students at Barcelona Tech and Pompeu Fabra.
+
 The truth is that not all academics-practitioners agree with the brute-force approach to forecasting that is currently mainstream. Join the "Whitebox Resistance" today!🛡
 
 ### A Note on the Journey
