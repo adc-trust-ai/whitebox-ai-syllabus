@@ -85,7 +85,7 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 ### 🤖 Machine Learning
 | Resource | Why it's here |
 | :--- | :--- |
-| [**Machine Learning (Ng, Stanford)**](https://www.youtube.com/playlist?list=PLiPvV5TNogxIS4bHQVW4pMkj4CHA8COdX) | THE original introductory ML playlist, worth it despite its low video resolution by today's standards. |
+| [**Machine Learning (Ng, Stanford)**](https://www.youtube.com/playlist?list=PLiPvV5TNogxIS4bHQVW4pMkj4CHA8COdX) | THE original introductory ML playlist -- still worth it despite its low video resolution by today's standards. |
 | [**Statistical Learning (StatQuest)**](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) | A gentle and visual introduction to most of the core topics in classical statistical learning. |
 | [**Machine Learning I (GaTech)**](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo) | A friendly playlist focused on supervised learning. |
 | [**Machine Learning II (Ng, Stanford)**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) | Suitable for advanced undergraduates or junior graduate students in ML. |
