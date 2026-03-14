@@ -38,6 +38,7 @@ Choose your depth based on your current objective:
 
 ### 👤 About the Author
 Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and Computational Statistics focused on statistical learning and high-stakes AI transparency. He currently teaches at BarcelonaTech (UPC) within the Bachelor of Artificial Intelligence and at Pompeu Fabra (UPF) in the Bachelor of Economics. He holds a Ph.D. in Statistics from UW-Madison (la Caixa Fellow) and is the developer of the TRUST™ machine learning framework, including the Renet™ and AdaLogit™ models, the high-performance Ridge-OLS TurboSolve™, and model-agnostic feature importance deterministic estimators ("One permutation is all you need").
+
 *Disclaimer: This repository is a personal educational initiative and does not represent the official curriculum or views of UPC or UPF.*
 
 ---
@@ -71,6 +72,14 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 | [**Statistics (Organic Chem Tutor)**](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV) | Good and varied selection of intro to intermediate topics. |
 | [**Econometrics 1 (Ben Lambert)**](https://www.youtube.com/playlist?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU) | A fantastic Khan-Academy-style introduction to Econometrics and Time Series. |
 | [**Econometrics 2 (Ben Lambert)**](https://www.youtube.com/playlist?list=PLwJRxp3blEvb7P-7po9AxuBwquPv75LjU) | Part 2. |
+
+
+### 🐍 Python
+| Resource | Why it's here |
+| :--- | :--- |
+| [**Python 0 (Visually Explained)**](https://www.youtube.com/playlist?list=PL8HmoRTjTSlEgS2GsFaDr9zDLC1xD9FZf) | A friendly introduction to select Python topics including Google Colab notebooks. |
+| [**Python 1 (Corey Schafer)**](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) | Perhaps the no. 1 recommended playlist to learn Python. |
+| [**Python 2 (Corey Schafer)**](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) | The sequel: Object Oriented Programming principles. |
 
 
 ### 🤖 Machine Learning
