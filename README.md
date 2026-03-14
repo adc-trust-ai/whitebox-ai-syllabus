@@ -108,7 +108,7 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 
 *The final frontier: Scaling theory into a production-grade framework for high-stakes healthcare, banking and regulatory compliance.*
 
-
+> **Sneak Peek:** The framework is implemented in the [trust-free](https://github.com/adc-trust-ai/trust-free) Python package.
 ---
 
 ## 🤝 How to Contribute to the Repository
