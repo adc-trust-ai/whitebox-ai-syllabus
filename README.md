@@ -25,7 +25,7 @@ This syllabus is the "White-Box" antidote, which shows that a safer, more human-
 The truth is that not all academics-practitioners agree with the brute-force approach to forecasting that is currently mainstream. Join the "Whitebox Resistance" today!🛡
 
 ### A Note on the Journey
-Mastering every video in this repository would be an Herculean task and likely unnecessary for most. However, the sequence presented forms a logical progression from raw intuition to mathematical rigor. You are encouraged to critically pick and choose.
+Mastering every resource in this repository would be an Herculean task and likely unnecessary for most. However, the sequence presented forms a logical progression from raw intuition to mathematical rigor. You are encouraged to critically pick and choose.
 
 ### 🧭 How to Navigate the Syllabus
 Choose your depth based on your current objective:
