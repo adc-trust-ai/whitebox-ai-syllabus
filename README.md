@@ -27,7 +27,7 @@ Mastering every video in this repository would be an Herculean task and likely o
 ## ✅ Level 1: Math Foundations
 *Master the 20% of math that puts you above the 80% of practitioners.*
 
-### 📐 Linear Algebra (The Skeletal System)
+### 📐 Linear Algebra
 | Resource | Why it's here |
 | :--- | :--- |
 | [**Essence of LinAlg (3B1B)**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Essential visual intuition to "see" what matrices are actually doing. |
@@ -35,7 +35,7 @@ Mastering every video in this repository would be an Herculean task and likely o
 | [**Algebra (Censor, Technion)**](https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9)| Academic rigor at its finest. This is where you learn to treat matrices not just as grids of numbers, but as linear operators.|
 
 
-### 📈 Calculus & Optimization (The Nervous System)
+### 📈 Calculus & Optimization
 | Resource | Why it's here |
 | :--- | :--- |
 | [**Essence of Calculus (3B1B)**](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | A good visual introduction to different calculus topics.
