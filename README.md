@@ -36,7 +36,7 @@ Choose your depth based on your current objective:
 * **The Auditor (L1 + L3):** Learn the math foundations and the frameworks of inherently interpretable ML. Designed for model auditors or those who must justify model decisions to regulators or stakeholders.
 * **The Architect (L1 + L2 + L3):** The full stack. For those intending to expertly use or even develop their own intrinsically interpretable frameworks at the bleeding edge of the research frontier.
 
-👤 About the Author
+### 👤 About the Author
 Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and Computational Statistics focused on statistical learning and high-stakes AI transparency. He currently teaches at BarcelonaTech (UPC) within the Bachelor of Artificial Intelligence and at Pompeu Fabra (UPF) in the Bachelor of Economics. He holds a Ph.D. in Statistics from UW-Madison (la Caixa Fellow) and is the developer of the TRUST™ machine learning framework, including the Renet™ and AdaLogit™ models, the high-performance Ridge-OLS TurboSolve™, and model-agnostic feature importance deterministic estimators ("One permutation is all you need").
 *Disclaimer: This repository is a personal educational initiative and does not represent the official curriculum or views of UPC or UPF.*
 
