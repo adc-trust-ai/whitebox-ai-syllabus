@@ -1,11 +1,13 @@
 # Whitebox AI Syllabus 🎓
 **The Expert-Curated Path to Mastering Interpretable Machine Learning**
 
+[![BarcelonaTech](https://img.shields.io/badge/Faculty-UPC%20BarcelonaTech-blue)](https://www.upc.edu)
+[![UPF Economics](https://img.shields.io/badge/Faculty-Pompeu%20Fabra%20UPF-red)](https://www.upf.edu)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-## 📌 Table of Contents
+## 📌 Syllabus
 * [Level 0: The Vision: Why Whitebox?](#level-0)
 * [Level 1: Math Foundations](#level-1) ![Status: Live](https://img.shields.io/badge/Status-Live-green)
 * [Level 2: White-Box Literature](#level-2) ![Status: Curating](https://img.shields.io/badge/Status-Curating-orange)
@@ -16,18 +18,32 @@
 
 ## 💡 Level 0: The Vision
 ### The End of the Black-Box Era
-For decades, both academia and industry have been lulled into a false sense of security by high-performance ensemble models that prioritize predictive power over human comprehension. In the era of the EU AI Act and the rise of high-stakes, AI-informed decision-making, a model you cannot explain is no longer an asset no matter how accurate -- it is a liability.
-This syllabus is the "White-Box" antidote, which shows that a better, more human-centric AI future is possible. It is the exact self-learning stack I recommend to my most ambitious students at Barcelona Tech (Bachelor of Artificial Intelligence) and Pompeu Fabra (Bachelor of Economics).
+For decades, large sectors of academia and industry have been lulled into a false sense of security by high-performance ensemble models that prioritize predictive power over human comprehension. In the era of the EU AI Act and the rise of high-stakes, AI-informed decision-making, a model you cannot explain is no longer an asset no matter how accurate -- it is a liability.
+This syllabus is the "White-Box" antidote, which shows that a safer, more human-centric AI future is possible. It is the exact self-learning stack I recommend to my most ambitious students at Barcelona Tech and Pompeu Fabra.
+The truth is that not all academics-practitioners agree with the brute-force approach to forecasting that is currently mainstream. Join the "Whitebox Resistance" today!🛡
 
 ### A Note on the Journey
-Mastering every video in this repository would be an Herculean task and likely overkill for most. However, the sequence presented forms a logical progression from raw intuition to mathematical rigor. You are encouraged to critically pick and choose.
+Mastering every video in this repository would be an Herculean task and likely unnecessary for most. However, the sequence presented forms a logical progression from raw intuition to mathematical rigor. You are encouraged to critically pick and choose.
+
+### 🧭 How to Navigate the Syllabus
+Choose your depth based on your current objective:
+
+* **The ML Tourist (L1 Lite):** Watch the **3Blue1Brown** Linear Algebra and Calculus playlists. Perfect for building the visual intuition required to discuss ML at a high level without the heavy lifting.
+* **The Rigorous Practitioner (L1):** Master the math foundations and the **Python** module. This is the baseline for anyone looking to build (or at least responsibly use) ML models.
+* **The Academic (L1 + L2):** For those that want to truly understand foundational research work on white-box ML.
+* **The Auditor (L1 + L3):** Learn the math foundations and the frameworks of inherently interpretable ML. Designed for model auditors or those who must justify model decisions to regulators or stakeholders.
+* **The Architect (L1 + L2 + L3):** The full stack. For those intending to expertly use or even develop their own intrinsically interpretable frameworks at the bleeding edge of the research frontier.
+
+👤 About the Author
+Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and Computational Statistics focused on statistical learning and high-stakes AI transparency. He currently teaches at BarcelonaTech (UPC) within the Bachelor of Artificial Intelligence and at Pompeu Fabra (UPF) in the Bachelor of Economics. He holds a Ph.D. in Statistics from UW-Madison (la Caixa Fellow) and is the developer of the TRUST™ machine learning framework, including the Renet™ and AdaLogit™ models, the high-performance Ridge-OLS TurboSolve™, and model-agnostic feature importance deterministic estimators ("One permutation is all you need").
+*Disclaimer: This repository is a personal educational initiative and does not represent the official curriculum or views of UPC or UPF.*
 
 ---
 
-## ✅ Level 1: Math Foundations
-*Master the 20% of math that puts you above the 80% of practitioners.*
+## ✅ Level 1: Math and Python Foundations
+*Master the 20% of math that puts you ahead of the 80% of practitioners.*
 
-### 📐 Linear Algebra
+### 🔢 Linear Algebra
 | Resource | Why it's here |
 | :--- | :--- |
 | [**Essence of LinAlg (3B1B)**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Essential visual intuition to "see" what matrices are actually doing. |
@@ -72,7 +88,7 @@ Mastering every video in this repository would be an Herculean task and likely o
 
 *Content currently being selected. This section will cover the transition from Black-Box ensembles to inherently interpretable architectures, visitng XAI tools along the way as an occasionally useful middle-ground or complementary approach.*
 
-> **Sneak Peek:** We will be covering the seminal works of the world leading White-box AI Schools of Thought: Stanford (Friedman, Hastie, Tibshirani), Wisconsin-Madison (Loh, Zhang, Sankaran), Duke (Rudin), UC Berkeley (Breiman), and more.
+> **Sneak Peek:** We will be covering the seminal works of the world leading White-box AI Schools of Thought: Stanford (Friedman, Hastie, Tibshirani), Wisconsin-Madison (Loh, Zhang, Sankaran), Duke (Rudin, Semenova), UC Berkeley (Breiman), and more.
 
 ---
 
@@ -80,3 +96,26 @@ Mastering every video in this repository would be an Herculean task and likely o
 ![Status: Planned](https://img.shields.io/badge/Status-Planned-red)
 
 *The final frontier: Scaling theory into a production-grade framework for high-stakes healthcare, banking and regulatory compliance.*
+
+
+---
+
+## 🤝 How to Contribute
+The **Whitebox AI Syllabus** is a living curriculum. While the core sequence is curated to maintain academic rigor, I welcome contributions from the community, especially from fellow researchers, educators, and practitioners.
+
+### How you can help:
+* **Suggest a "Gold Standard" Resource:** If you know a playlist or open-access paper that explains a complex concept with exceptional clarity, please open an Issue.
+* **Report Broken Links:** Help keep the library functional for everyone.
+
+### The Curation Standard
+To maintain the "Syllabus" quality, all suggestions will be vetted against three criteria:
+1. **Conceptual Clarity:** Does it simplify the complex without losing the essence?
+2. **Foundational Strength:** Does it contribute to a "White-box" understanding of ML?
+3. **Open Access:** Only free-to-access resources are accepted. 
+
+> **Note to Authors:** If you have developed a high-quality educational resource or research work that aligns with our vision, feel free to reach out.
+
+---
+
+📚 Additional Resources:
+- For a wide collection of further ML reading, I can recommend [Carl McBride Ellis's Compendium](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources).
