@@ -61,7 +61,7 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 | [**Calculus One (Fowler, Ohio State)**](https://www.youtube.com/playlist?list=PLaLOVNqqD-2H1OJRzQDqYjGjM-XeJCALw) | Unrivaled conceptual clarity. If you want to understand how a model 'learns' via gradients without getting lost in the notation, start here.|
 | [**Calculus Two (Fowler, Ohio State)**](https://www.youtube.com/playlist?list=PLaLOVNqqD-2GXdakC-Sl2qJ0vl6g0lawb) | A beginner-friendly deep dive into sequences and series. |
 | [**Calculus 1 (Censor, Technion)**](https://www.youtube.com/playlist?list=PLW3u28VuDAHJymExTBCNnaI6TymzRGsUV) | For those looking to take their calculus rigor to the next level. |
-| [**Calculus 2 (Censor, Technion)**](https://www.youtube.com/playlist?list=PLW3u28VuDAHLWNxKyfoBQSVBp-fhWrDr0) | Multivariate calculus. |
+| [**Calculus 2 (Censor, Technion)**](https://www.youtube.com/playlist?list=PLW3u28VuDAHLWNxKyfoBQSVBp-fhWrDr0) | A rigorous yet beginner-friendly coverage of Multivariate calculus. |
 
 
 ### 🎲 Probability and Statistics
