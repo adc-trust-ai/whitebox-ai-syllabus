@@ -12,7 +12,7 @@
 * [Level 1: Math Foundations](#level-1) ![Status: Live](https://img.shields.io/badge/Status-Live-green)
 * [Level 2: White-Box Literature](#level-2) ![Status: Curating](https://img.shields.io/badge/Status-Curating-orange)
 * [Level 3: TRUST™ Architecture](#level-3) ![Status: Planned](https://img.shields.io/badge/Status-Planned-red)
-* [How to Contribute](#contributing)
+* [How to Contribute to the Repository](#contributing)
 
 ---
 
