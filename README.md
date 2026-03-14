@@ -67,8 +67,8 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 ### 🎲 Probability and Statistics
 | Resource | Why it's here |
 | :--- | :--- |
-| [**Probability Bootcamp (Brunton, UW)**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V) | Good and varied selection of intro to intermediate topics. |
-| [**Fundamentals (StatQuest)**](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) | Intuitive visuals and coverage of most fundamental topics|
+| [**Probability Bootcamp (Brunton, UW)**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V) | Good and varied selection of introductory-to-intermediate topics. |
+| [**Fundamentals (StatQuest)**](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) | Intuitive visuals and coverage of most fundamental topics. |
 | [**Statistics (Organic Chem Tutor)**](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV) | Good and varied selection of intro to intermediate topics. |
 | [**Econometrics 1 (Ben Lambert)**](https://www.youtube.com/playlist?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU) | A fantastic Khan-Academy-style introduction to Econometrics and Time Series. |
 | [**Econometrics 2 (Ben Lambert)**](https://www.youtube.com/playlist?list=PLwJRxp3blEvb7P-7po9AxuBwquPv75LjU) | Part 2. |
@@ -94,7 +94,7 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 
 ---
 
-## ⌛ Level 2: White-box Literature
+## ⌛ Level 2: White-Box Literature
 ![Status: Curating](https://img.shields.io/badge/Status-Curating-orange)
 
 *Content currently being selected. This section will cover the transition from Black-Box ensembles to inherently interpretable architectures, visitng XAI tools along the way as an occasionally useful middle-ground or complementary approach.*
@@ -103,7 +103,7 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 
 ---
 
-## ⏳ Level 3: The TRUST™ Architecture
+## ⏳ Level 3: TRUST™: A Framework for Trustworthy AI
 ![Status: Planned](https://img.shields.io/badge/Status-Planned-red)
 
 *The final frontier: Scaling theory into a production-grade framework for high-stakes healthcare, banking and regulatory compliance.*
