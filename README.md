@@ -20,7 +20,7 @@ For decades, both academia and industry have been lulled into a false sense of s
 This syllabus is the "White-Box" antidote. It is the exact self-learning stack I recommend to my most ambitious students at Barcelona Tech (Bachelor of Artificial Intelligence) and Pompeu Fabra (Bachelor of Economics).
 
 ### A Note on the Journey
-Mastering every video in this repository would be an Herculean task and likely overkill for most. However, the sequence presented forms a logical progression from raw intuition to mathematical rigor. You are encouraged to critically pick and choose
+Mastering every video in this repository would be an Herculean task and likely overkill for most. However, the sequence presented forms a logical progression from raw intuition to mathematical rigor. You are encouraged to critically pick and choose.
 
 ---
 
