@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Syllabus
-* [Level 0: The Vision: Why Whitebox?](#level-0)
+* [Level 0: The Vision: Why Whitebox?](#-level-0-the-vision)
 * [Level 1: Math Foundations](#level-1) ![Status: Live](https://img.shields.io/badge/Status-Live-green)
 * [Level 2: White-Box Literature](#level-2) ![Status: Curating](https://img.shields.io/badge/Status-Curating-orange)
 * [Level 3: TRUST™ Architecture](#level-3) ![Status: Planned](https://img.shields.io/badge/Status-Planned-red)
