@@ -92,7 +92,7 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 
 ---
 
-## ⏳ Level 3: TRUST™ Architecture
+## ⏳ Level 3: The TRUST™ Architecture
 ![Status: Planned](https://img.shields.io/badge/Status-Planned-red)
 
 *The final frontier: Scaling theory into a production-grade framework for high-stakes healthcare, banking and regulatory compliance.*
