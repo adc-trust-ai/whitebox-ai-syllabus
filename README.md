@@ -16,8 +16,8 @@
 
 ## 💡 Level 0: The Vision
 ### The End of the Black-Box Era
-For decades, both academia and industry have been lulled into a false sense of security by high-performance ensemble models that prioritize predictive power over human comprehension. In the era of the EU AI Act and the rise of high-stakes, AI-informed decision-making, a model you cannot explain is no longer an asset -- it is a liability.
-This syllabus is the "White-Box" antidote. It is the exact self-learning stack I recommend to my most ambitious students at Barcelona Tech (Bachelor of Artificial Intelligence) and Pompeu Fabra (Bachelor of Economics).
+For decades, both academia and industry have been lulled into a false sense of security by high-performance ensemble models that prioritize predictive power over human comprehension. In the era of the EU AI Act and the rise of high-stakes, AI-informed decision-making, a model you cannot explain is no longer an asset no matter how accurate -- it is a liability.
+This syllabus is the "White-Box" antidote, which shows that a better, more human-centric AI future is possible. It is the exact self-learning stack I recommend to my most ambitious students at Barcelona Tech (Bachelor of Artificial Intelligence) and Pompeu Fabra (Bachelor of Economics).
 
 ### A Note on the Journey
 Mastering every video in this repository would be an Herculean task and likely overkill for most. However, the sequence presented forms a logical progression from raw intuition to mathematical rigor. You are encouraged to critically pick and choose.
