@@ -1,8 +1,8 @@
 # Whitebox AI Syllabus 🎓
 **The Expert-Curated Path to Mastering Interpretable Machine Learning**
 
-[![BarcelonaTech](https://img.shields.io/badge/Faculty-UPC%20BarcelonaTech-blue)](https://www.upc.edu)
-[![UPF Economics](https://img.shields.io/badge/Faculty-Pompeu%20Fabra-red)](https://www.upf.edu)
+[![BarcelonaTech](https://img.shields.io/badge/Faculty-BarcelonaTech(UPC)-blue)](https://www.upc.edu)
+[![UPF Economics](https://img.shields.io/badge/Faculty-Pompeu%20Fabra%20(UPF)-red)](https://www.upf.edu)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
