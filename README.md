@@ -44,7 +44,7 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 ---
 
 ## ✅ Level 1: Math and Python Foundations
-*Master the 20% of math that puts you ahead of the 80% of practitioners.*
+*Master the 20% of math & programming that puts you ahead of the 80% of practitioners.*
 
 ### 🔢 Linear Algebra
 | Resource | Why it's here |
