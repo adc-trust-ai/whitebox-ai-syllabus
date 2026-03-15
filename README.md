@@ -129,4 +129,4 @@ To maintain the "Syllabus" quality, all suggestions will be vetted against three
 ---
 
 ## 📚 Additional Resources:
-- For a wide collection of further ML reading, check out [Carl McBride Ellis's Compendium](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources).
+- For a wide collection of further ML reading (text-based), check out [Carl McBride Ellis's Compendium](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources).
