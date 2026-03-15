@@ -112,7 +112,7 @@ Albert Dorador, Ph.D. is a researcher and Adjunct Professor of Mathematics and C
 ---
 
 ## 🤝 How to Contribute to the Repository
-The **Whitebox AI Syllabus** is a living curriculum. While the core sequence is curated to maintain academic rigor, I welcome contributions from the community, especially from fellow researchers, educators, and practitioners.
+The **Whitebox AI Syllabus** is a living curriculum. While the core sequence is curated to maintain academic rigor, contributions from the community, especially from fellow researchers, educators, and practitioners are welcome.
 
 ### How you can help:
 * **Suggest a "Gold Standard" Resource:** If you know a playlist or open-access paper that explains a complex concept with exceptional clarity, please open an Issue.
@@ -129,4 +129,4 @@ To maintain the "Syllabus" quality, all suggestions will be vetted against three
 ---
 
 ## 📚 Additional Resources:
-- For a wide collection of further ML reading, I highly recommend [Carl McBride Ellis's Compendium](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources).
+- For a wide collection of further ML reading, check out [Carl McBride Ellis's Compendium](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources).
