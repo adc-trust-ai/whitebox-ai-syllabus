@@ -13,6 +13,7 @@
 * [Level 2: White-Box Literature](#-level-2-white-box-literature) ![Status: Curating](https://img.shields.io/badge/Status-Curating-orange)
 * [Level 3: TRUST™: A Framework for Trustworthy AI](#-level-3-trust-a-framework-for-trustworthy-ai) ![Status: Planned](https://img.shields.io/badge/Status-Planned-red)
 * [How to Contribute to the Repository](#-how-to-contribute-to-the-repository)
+* [Complementary Resources](#-complementary-resources)
 
 ---
 
@@ -128,5 +129,5 @@ To maintain the "Syllabus" quality, all suggestions will be vetted against three
 
 ---
 
-## 📚 Additional Resources:
-- For a wide collection of further ML reading (text-based), check out [Carl McBride Ellis's Compendium](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources).
+## 📚 Complementary Resources:
+- For an extensive, multi-topic library of further ML reading, check out [Carl McBride Ellis's Compendium](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources).
