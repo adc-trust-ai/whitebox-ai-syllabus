@@ -1,6 +1,7 @@
 # Whitebox AI Syllabus 🎓
 **The Expert-Curated Path to Mastering Interpretable Machine Learning**
 
+[![UW-Madison](https://img.shields.io/badge/PhD-UW--Madison%20(Statistics)-B70101)](https://stat.wisc.edu/)
 [![BarcelonaTech](https://img.shields.io/badge/Faculty-BarcelonaTech%20(UPC)-blue)](https://www.upc.edu)
 [![UPF Economics](https://img.shields.io/badge/Faculty-Pompeu%20Fabra%20(UPF)-red)](https://www.upf.edu)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -26,7 +27,7 @@ This syllabus is the "White-Box" antidote, which shows that a safer, more human-
 The truth is that not all academics-practitioners agree with the brute-force approach to forecasting that is currently mainstream. Join the "Whitebox Resistance" today!🛡
 
 ### A Note on the Journey
-Mastering every resource in this repository would be an Herculean task and likely unnecessary for most. However, the sequence presented forms a logical progression from raw intuition to mathematical rigor. You are encouraged to critically pick and choose.
+Mastering every resource in this repository would be an Herculean task and likely unnecessary for most. However, the sequence presented forms a logical progression from raw intuition to mathematical rigor. You are encouraged to critically pick and choose. Commit to the rigor, and you too will be publishing in top-tier venues or merging PRs into world-leading libraries like scikit-learn.
 
 ### 🧭 How to Navigate the Syllabus
 Choose your depth based on your current objective:
