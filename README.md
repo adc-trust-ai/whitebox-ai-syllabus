@@ -132,7 +132,9 @@ To maintain the "Syllabus" quality, all suggestions will be vetted against three
 
 ### 👤 About the Author
 **Albert Dorador, Ph.D.** is a researcher and Adjunct Professor of Mathematics and Computational Statistics focused on statistical learning and high-stakes AI transparency. He currently teaches at BarcelonaTech (UPC) and Pompeu Fabra (UPF). He holds a Ph.D. in Statistics from UW-Madison (la Caixa Fellow), advised by Dr. Wei-Yin Loh.
+
 Following his tenure at the European Central Bank (ECB), where he gained first-hand insight into the risks of opaque modeling in the Eurosystem, he developed the **TRUST™** machine learning framework. This suite includes the **Renet™** and **AdaLogit™** models, the high-performance **TurboSolve™** (Ridge-OLS), and deterministic feature importance estimators ("One permutation is all you need").
+
 The TRUST™ framework has been applied in both regulated industry sectors and humanitarian efforts, notably in collaboration with the Mundo Orenda NGO to assist clinicians in Angola with recovery forecasting for malnourished children.
 
 *Disclaimer: This repository is a personal educational initiative and does not represent the official curriculum or views of UPC or UPF.*
