@@ -47,7 +47,7 @@ Choose your depth based on your current objective:
 | Resource | Why it's here |
 | :--- | :--- |
 | [**Essence of LinAlg (3B1B)**](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Essential visual intuition to "see" what matrices are actually doing. |
-| [**MIT 18.06 (Strang, MIT)**](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) | The gold standard. Focus on the Four Fundamental Subspaces to understand the geometry of data.|
+| [**MIT 18.06 (Strang, MIT)**](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) | The gold standard. Focus on the Four Fundamental Subspaces to understand the geometry of data.|
 | [**Algebra (Censor, Technion)**](https://www.youtube.com/playlist?list=PLW3u28VuDAHJNrf3JCgT0GG_rjFVz0-j9)| Academic rigor at its finest. This is where you learn to treat matrices not just as grids of numbers, but as linear operators.|
 
 
